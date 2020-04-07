@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yao2design.github.io</id>
     <title>yao2design</title>
-    <updated>2020-04-07T15:04:21.438Z</updated>
+    <updated>2020-04-07T15:07:21.924Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yao2design.github.io"/>
     <link rel="self" href="https://yao2design.github.io/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://yao2design.github.io/images/avatar.png</logo>
     <icon>https://yao2design.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, yao2design</rights>
+    <entry>
+        <title type="html"><![CDATA[IF 2019-02 第三次参与IF设计奖]]></title>
+        <id>https://yao2design.github.io/post/if-2019-02-di-san-ci-can-yu-if-she-ji-jiang/</id>
+        <link href="https://yao2design.github.io/post/if-2019-02-di-san-ci-can-yu-if-she-ji-jiang/">
+        </link>
+        <updated>2019-07-12T15:05:57.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://yao2design.github.io/post-images/1586271971689.jpg" alt="" loading="lazy"><br>
+<img src="https://yao2design.github.io/post-images/1586271981340.jpg" alt="" loading="lazy"><br>
+<img src="https://yao2design.github.io/post-images/1586271985356.jpg" alt="" loading="lazy"><br>
+<img src="https://yao2design.github.io/post-images/1586271989187.jpg" alt="" loading="lazy"><br>
+<img src="https://yao2design.github.io/post-images/1586271992970.jpg" alt="" loading="lazy"><br>
+<img src="https://yao2design.github.io/post-images/1586271996633.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IF 2018-02 第一次参与IF设计奖]]></title>
         <id>https://yao2design.github.io/post/if-2018-01/</id>
