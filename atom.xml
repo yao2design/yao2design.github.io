@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yao2design.github.io</id>
     <title>yao2design</title>
-    <updated>2020-04-07T15:18:12.377Z</updated>
+    <updated>2020-04-07T15:22:28.596Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yao2design.github.io"/>
     <link rel="self" href="https://yao2design.github.io/atom.xml"/>
@@ -31,6 +31,27 @@
         <content type="html"><![CDATA[<p><img src="https://yao2design.github.io/post-images/1586272649687.jpg" alt="" loading="lazy"><br>
 <img src="https://yao2design.github.io/post-images/1586272658113.jpg" alt="" loading="lazy"><br>
 <img src="https://yao2design.github.io/post-images/1586272665537.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reddot 2018-01 第一次参与红点设计奖  Razor无人机概念]]></title>
+        <id>https://yao2design.github.io/post/reddot-2018-01-di-yi-ci-can-yu-hong-dian-she-ji-jiang-razor-wu-ren-ji-gai-nian/</id>
+        <link href="https://yao2design.github.io/post/reddot-2018-01-di-yi-ci-can-yu-hong-dian-she-ji-jiang-razor-wu-ren-ji-gai-nian/">
+        </link>
+        <updated>2020-04-07T11:18:40.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://yao2design.github.io/post-images/1586272769633.jpg" alt="" loading="lazy"><br>
+<img src="https://yao2design.github.io/post-images/1586272798961.jpg" alt="" loading="lazy"><br>
+<img src="https://yao2design.github.io/post-images/1586272803992.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reddot 2018-01 第一次参与红点设计奖  TEA INSOLE概念]]></title>
+        <id>https://yao2design.github.io/post/reddot-2018-01-di-yi-ci-can-yu-hong-dian-she-ji-jiang-tea-insole-gai-nian/</id>
+        <link href="https://yao2design.github.io/post/reddot-2018-01-di-yi-ci-can-yu-hong-dian-she-ji-jiang-tea-insole-gai-nian/">
+        </link>
+        <updated>2020-04-07T09:11:30.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://yao2design.github.io/post-images/1586272910517.jpg" alt="" loading="lazy"><br>
+<img src="https://yao2design.github.io/post-images/1586272923595.jpg" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
     <entry>
