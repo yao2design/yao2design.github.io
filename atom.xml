@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yao2design.github.io</id>
     <title>yao2design</title>
-    <updated>2020-04-07T15:22:28.596Z</updated>
+    <updated>2020-04-08T02:55:53.816Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yao2design.github.io"/>
     <link rel="self" href="https://yao2design.github.io/atom.xml"/>
@@ -55,7 +55,17 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[IF 2019-01 第三次参与IF设计奖]]></title>
+        <title type="html"><![CDATA[IF 2019-02 第四次参与IF设计奖  （共2部）]]></title>
+        <id>https://yao2design.github.io/post/if-2019-02-di-si-ci-can-yu-if-she-ji-jiang/</id>
+        <link href="https://yao2design.github.io/post/if-2019-02-di-si-ci-can-yu-if-she-ji-jiang/">
+        </link>
+        <updated>2019-09-19T09:13:01.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://yao2design.github.io/post-images/1586272395401.jpg" alt="" loading="lazy"><br>
+<img src="https://yao2design.github.io/post-images/1586272404304.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IF 2019-01 第三次参与IF设计奖  （共4部）]]></title>
         <id>https://yao2design.github.io/post/if-2019-02-di-san-ci-can-yu-if-she-ji-jiang/</id>
         <link href="https://yao2design.github.io/post/if-2019-02-di-san-ci-can-yu-if-she-ji-jiang/">
         </link>
@@ -69,17 +79,7 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[IF 2019-02 第四次参与IF设计奖]]></title>
-        <id>https://yao2design.github.io/post/if-2019-02-di-si-ci-can-yu-if-she-ji-jiang/</id>
-        <link href="https://yao2design.github.io/post/if-2019-02-di-si-ci-can-yu-if-she-ji-jiang/">
-        </link>
-        <updated>2019-05-09T09:13:01.000Z</updated>
-        <content type="html"><![CDATA[<p><img src="https://yao2design.github.io/post-images/1586272395401.jpg" alt="" loading="lazy"><br>
-<img src="https://yao2design.github.io/post-images/1586272404304.jpg" alt="" loading="lazy"></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IF 2018-02 第二次参与IF设计奖]]></title>
+        <title type="html"><![CDATA[IF 2018-02 第二次参与IF设计奖 （共4部）]]></title>
         <id>https://yao2design.github.io/post/if-2019-01-di-er-ci-can-yu-if-she-ji-bi-sai/</id>
         <link href="https://yao2design.github.io/post/if-2019-01-di-er-ci-can-yu-if-she-ji-bi-sai/">
         </link>
@@ -92,7 +92,7 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[IF 2018-01 第一次参与IF设计奖]]></title>
+        <title type="html"><![CDATA[IF 2018-01 第一次参与IF设计奖 （共2部）]]></title>
         <id>https://yao2design.github.io/post/if-2018-01/</id>
         <link href="https://yao2design.github.io/post/if-2018-01/">
         </link>
